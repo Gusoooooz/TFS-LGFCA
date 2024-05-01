@@ -2,7 +2,7 @@
 
 In this paper, we proposed a fuzzy clustering method with anchor-based strategy named LGFCA, which achieves subspace learning and clustering at the same time and maintains the local-global structure of data. Specifically, the feature of samples are transformed into the fuzzy subspace where the latent representation can naturally express membership degree and exhibit more discriminative distribution.
 
-## Citation
+## Operation Instruction
 
 To demonstrate the performance of our method on the toy dataset, please run the program named "Toy_Test.m" in file "./Toy".
 
